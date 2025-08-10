@@ -1,0 +1,26 @@
+{
+  "name": "hw5",
+  "version": "1.0.0",
+  "description": "Database Homework for HW5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomicRecall/DatabaseHomework5.git"
+  },
+  "author": "Daniel Yurskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtomicRecall/DatabaseHomework5/issues"
+  },
+  "homepage": "https://github.com/AtomicRecall/DatabaseHomework5#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "mongodb": "^6.18.0",
+    "mongoose": "^8.17.1",
+    "mongosh": "^2.5.6",
+    "node": "^22.18.0"
+  }
+}
